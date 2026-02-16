@@ -5,53 +5,53 @@
 *.bak
 
 # Flutter/Dart specific
-flutter-app/.dart_tool/
-flutter-app/.flutter-plugins
-flutter-app/.flutter-plugins-dependencies
-flutter-app/.pub-cache/
-flutter-app/.pub/
-flutter-app/build/
-flutter-app/*.lock
-flutter-app/flutter_*.png
-flutter-app/lib/firebase_options.dart
-flutter-app/firebase.json
+flutter_app/.dart_tool/
+flutter_app/.flutter-plugins
+flutter_app/.flutter-plugins-dependencies
+flutter_app/.pub-cache/
+flutter_app/.pub/
+flutter_app/build/
+flutter_app/*.lock
+flutter_app/flutter_*.png
+flutter_app/lib/firebase_options.dart
+flutter_app/firebase.json
 
 
 # Flutter environment files
-flutter-app/.env
-flutter-app/*.env
-flutter-app/**/*.env
+flutter_app/.env
+flutter_app/*.env
+flutter_app/**/*.env
 
 # Android specific
-flutter-app/android/app/debug
-flutter-app/android/app/profile
-flutter-app/android/app/release
-flutter-app/android/**/gradle-wrapper.jar
-flutter-app/android/.gradle
-flutter-app/android/captures/
-flutter-app/android/local.properties
-flutter-app/android/key.properties
-flutter-app/android/**/GeneratedPluginRegistrant.*
-flutter-app/android/app/google-services.json
+flutter_app/android/app/debug
+flutter_app/android/app/profile
+flutter_app/android/app/release
+flutter_app/android/**/gradle-wrapper.jar
+flutter_app/android/.gradle
+flutter_app/android/captures/
+flutter_app/android/local.properties
+flutter_app/android/key.properties
+flutter_app/android/**/GeneratedPluginRegistrant.*
+flutter_app/android/app/google-services.json
 
 # iOS specific
-flutter-app/ios/Flutter/.last_build_id
-flutter-app/ios/Flutter/flutter_export_environment.sh
-flutter-app/ios/Flutter/Generated.xcconfig
-flutter-app/ios/**/*.moved-aside
-flutter-app/ios/**/*.pbxuser
-flutter-app/ios/**/*.perspectivev3
-flutter-app/ios/**/*sync/
-flutter-app/ios/**/.sconsign.dblite
-flutter-app/ios/**/.tags*
-flutter-app/ios/**/.vagrant/
-flutter-app/ios/**/DerivedData/
-flutter-app/ios/**/Icon?
-flutter-app/ios/**/Pods/
-flutter-app/ios/**/.symlinks/
-flutter-app/ios/**/profile
-flutter-app/ios/**/xcuserdata
-flutter-app/ios/**/GoogleService-Info.plist
+flutter_app/ios/Flutter/.last_build_id
+flutter_app/ios/Flutter/flutter_export_environment.sh
+flutter_app/ios/Flutter/Generated.xcconfig
+flutter_app/ios/**/*.moved-aside
+flutter_app/ios/**/*.pbxuser
+flutter_app/ios/**/*.perspectivev3
+flutter_app/ios/**/*sync/
+flutter_app/ios/**/.sconsign.dblite
+flutter_app/ios/**/.tags*
+flutter_app/ios/**/.vagrant/
+flutter_app/ios/**/DerivedData/
+flutter_app/ios/**/Icon?
+flutter_app/ios/**/Pods/
+flutter_app/ios/**/.symlinks/
+flutter_app/ios/**/profile
+flutter_app/ios/**/xcuserdata
+flutter_app/ios/**/GoogleService-Info.plist
 
 # IDE specific
 .idea/
