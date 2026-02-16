@@ -1,0 +1,74 @@
+# General
+.DS_Store
+*.tmp
+*.temp
+*.bak
+
+# Flutter/Dart specific
+flutter-app/.dart_tool/
+flutter-app/.flutter-plugins
+flutter-app/.flutter-plugins-dependencies
+flutter-app/.pub-cache/
+flutter-app/.pub/
+flutter-app/build/
+flutter-app/*.lock
+flutter-app/flutter_*.png
+flutter-app/lib/firebase_options.dart
+flutter-app/firebase.json
+
+
+# Flutter environment files
+flutter-app/.env
+flutter-app/*.env
+flutter-app/**/*.env
+
+# Android specific
+flutter-app/android/app/debug
+flutter-app/android/app/profile
+flutter-app/android/app/release
+flutter-app/android/**/gradle-wrapper.jar
+flutter-app/android/.gradle
+flutter-app/android/captures/
+flutter-app/android/local.properties
+flutter-app/android/key.properties
+flutter-app/android/**/GeneratedPluginRegistrant.*
+flutter-app/android/app/google-services.json
+
+# iOS specific
+flutter-app/ios/Flutter/.last_build_id
+flutter-app/ios/Flutter/flutter_export_environment.sh
+flutter-app/ios/Flutter/Generated.xcconfig
+flutter-app/ios/**/*.moved-aside
+flutter-app/ios/**/*.pbxuser
+flutter-app/ios/**/*.perspectivev3
+flutter-app/ios/**/*sync/
+flutter-app/ios/**/.sconsign.dblite
+flutter-app/ios/**/.tags*
+flutter-app/ios/**/.vagrant/
+flutter-app/ios/**/DerivedData/
+flutter-app/ios/**/Icon?
+flutter-app/ios/**/Pods/
+flutter-app/ios/**/.symlinks/
+flutter-app/ios/**/profile
+flutter-app/ios/**/xcuserdata
+flutter-app/ios/**/GoogleService-Info.plist
+
+# IDE specific
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# VS Code workspace files
+*.code-workspace
+# Documentation and help files (optional)
+HELP.md
+flutter-app/android/.settings/org.eclipse.buildship.core.prefs
+
+# Project specific files
+.env

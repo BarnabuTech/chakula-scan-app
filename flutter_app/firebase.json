@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"chakula-scan-app","appId":"1:42605565122:android:02314177e024a25eddd75b","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"chakula-scan-app","configurations":{"android":"1:42605565122:android:02314177e024a25eddd75b","ios":"1:42605565122:ios:21d93f65c5e88690ddd75b"}}}}}}

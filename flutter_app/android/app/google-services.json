@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "42605565122",
+    "project_id": "chakula-scan-app",
+    "storage_bucket": "chakula-scan-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42605565122:android:02314177e024a25eddd75b",
+        "android_client_info": {
+          "package_name": "com.barsheba.chakulascanapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42605565122-miknfdc3eg2g61p798shnrj26kte5i3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpzi-5KeJjO_lEV-osW6ygs3YYTvDBfDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42605565122-miknfdc3eg2g61p798shnrj26kte5i3o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42605565122-nr2lo50spdkgpqm23qgm3q37tjfpe6uj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barsheba.chakulascanapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
