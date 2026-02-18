@@ -31,10 +31,10 @@
               "client_type": 3
             },
             {
-              "client_id": "42605565122-nr2lo50spdkgpqm23qgm3q37tjfpe6uj.apps.googleusercontent.com",
+              "client_id": "42605565122-b88pprng0areio2nb8uutd1963glcm1k.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.barsheba.chakulascanapp"
+                "bundle_id": "com.example.flutterApp"
               }
             }
           ]
